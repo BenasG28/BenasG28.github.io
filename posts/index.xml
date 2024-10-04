@@ -6,8 +6,15 @@
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 02 Oct 2024 00:23:07 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 04 Oct 2024 17:22:46 +0300</lastBuildDate>
     <atom:link href="https://BenasG28.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Photo and Code</title>
+      <link>https://BenasG28.github.io/posts/photocode/</link>
+      <pubDate>Fri, 04 Oct 2024 17:22:46 +0300</pubDate>
+      <guid>https://BenasG28.github.io/posts/photocode/</guid>
+      <description>&lt;h1 id=&#34;nuotrauka-ir-kodo-blokas-&#34;&gt;Nuotrauka ir Kodo blokas :)&lt;/h1&gt;&#xA;&lt;p&gt;Štai nuotrauka:&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://BenasG28.github.io/images/funnyimg.jpg&#34; alt=&#34;FunnyImg&#34;&gt;&lt;/p&gt;&#xA;&lt;p&gt;Štai kodo blokas:&lt;/p&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;class&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;HelloWorld&lt;/span&gt; {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;public&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;static&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;void&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;main&lt;/span&gt;(String&lt;span style=&#34;color:#f92672&#34;&gt;[]&lt;/span&gt; args) {&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;        System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;This was harder than it needed to be.&amp;#34;&lt;/span&gt;);&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    }&#xA;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+    </item>
     <item>
       <title>Debesys</title>
       <link>https://BenasG28.github.io/posts/debesys/</link>
